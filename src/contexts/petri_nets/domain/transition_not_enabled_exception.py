@@ -1,0 +1,2 @@
+class TransitionNotEnabledException(Exception):
+    pass

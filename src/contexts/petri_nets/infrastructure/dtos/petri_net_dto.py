@@ -1,0 +1,3 @@
+class PetriNetDto:
+
+    pass
